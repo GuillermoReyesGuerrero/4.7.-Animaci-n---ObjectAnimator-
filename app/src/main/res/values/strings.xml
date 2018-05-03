@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjemploAnimationEvents</string>
+    <string name="bounce">Bounce</string>
+    <string name="cyrcle">Cyrcle</string>
+    <string name="accelerate">Accelerate</string>
+    <string name="decelerate">Decelerate</string>
+
+</resources>
